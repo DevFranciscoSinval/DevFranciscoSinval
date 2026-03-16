@@ -1,15 +1,11 @@
 # 🧑‍💻 Francisco Sinval
 **`Estudante de ADS (3º semestre) | Desenvolvedor Fullstack em formação`**
 
-Olá, me chamo Francisco Sinval da Silva Junior, tenho 30 anos e sou natural de Manaus. Possuo um perfil analítico, proativo e comunicativo, características que procuro aplicar tanto no aprendizado quanto na resolução de problemas.
+Olá, me chamo Francisco Sinval da Silva Junior, tenho 30 anos e sou natural de Manaus. Possuo um perfil analítico, proativo e comunicativo, características que aplico no aprendizado e na resolução de problemas.
 
-Atualmente curso Análise e Desenvolvimento de Sistemas pelo SENAC (3º período), onde venho desenvolvendo conhecimentos em programação e construção de soluções tecnológicas. Tenho grande interesse em desenvolvimento de software, principalmente na criação de aplicações que resolvam problemas reais e tragam impacto positivo para as pessoas.
+Atualmente curso Análise e Desenvolvimento de Sistemas pelo SENAC (3º período), onde venho desenvolvendo conhecimentos em programação e construção de soluções tecnológicas. Tenho grande interesse em desenvolvimento de software, especialmente na criação de aplicações que resolvam problemas reais.
 
-Antes de ingressar na área de tecnologia, iniciei minha formação em Medicina na Universidad Nacional de Mar del Plata, localizada na cidade de Mar del Plata, na Argentina. Durante esse período de 2 anos, tive a oportunidade de viver uma experiência internacional que contribuiu significativamente para meu crescimento pessoal e acadêmico, além de me permitir alcançar fluência na língua espanhola.
-
-Sempre fui uma pessoa movida pela curiosidade e pelo interesse em entender como as coisas funcionam. Seja explorando a complexidade do corpo humano ou investigando o funcionamento de sistemas e tecnologias em uma busca contínua de compreender os processos por trás dos problemas e encontrar soluções por meio de análise, lógica e aprendizado contínuo.
-
-Hoje direciono minha carreira para a área de desenvolvimento de software, onde busco constantemente evoluir minhas habilidades técnicas por meio de estudos e projetos práticos, com o objetivo de conquistar minha primeira oportunidade profissional na área de tecnologia.
+Antes de ingressar na área de tecnologia, iniciei minha formação em Medicina na Universidad Nacional de Mar del Plata, na Argentina, onde estudei por 2 anos. Essa experiência internacional contribuiu para meu crescimento pessoal e me permitiu alcançar fluência em espanhol.
 
 ---
 
