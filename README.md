@@ -3,9 +3,11 @@
 
 Olá, me chamo Francisco Sinval da Silva Junior, tenho 30 anos e sou natural de Manaus. Possuo um perfil analítico, proativo e comunicativo, características que aplico no aprendizado e na resolução de problemas.
 
+Antes de ingressar na área de tecnologia, iniciei minha formação em Medicina na Universidad Nacional de Mar del Plata, na Argentina, onde estudei por 2 anos. Essa experiência internacional contribuiu para meu crescimento pessoal e me permitiu alcançar fluência em espanhol.
+
 Atualmente curso Análise e Desenvolvimento de Sistemas pelo SENAC (3º período), onde venho desenvolvendo conhecimentos em programação e construção de soluções tecnológicas. Tenho grande interesse em desenvolvimento de software, especialmente na criação de aplicações que resolvam problemas reais.
 
-Antes de ingressar na área de tecnologia, iniciei minha formação em Medicina na Universidad Nacional de Mar del Plata, na Argentina, onde estudei por 2 anos. Essa experiência internacional contribuiu para meu crescimento pessoal e me permitiu alcançar fluência em espanhol.
+
 
 ---
 
